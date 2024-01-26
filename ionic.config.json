@@ -1,0 +1,8 @@
+{
+  "name": "FastFish",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "692b2ac4"
+}
